@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sahilpathan05
+- 👋 Hi, I’m Sahil Pathan
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning .Net Maui
 - 📫 How to reach me @wajidwajid2418@gmail.com
